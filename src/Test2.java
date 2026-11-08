@@ -5,4 +5,8 @@ public class Test2 {
         int data = 56;
         System.out.println(data);
     }
+
+    public static void dance(){
+        System.out.println("dance...");
+    }
 }
